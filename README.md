@@ -14,6 +14,11 @@
 2) start the server
     ```
     $> npm start
+    
+    > graphql-demo@1.0.0 start ./graphql-demo
+    > ts-node ./src/index.ts
+
+    Server Ready!
     ```
 3) open the [GraphQl Playground](http://localhost:4000) in your browser
 
