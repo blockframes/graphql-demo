@@ -6,7 +6,7 @@
 ## Getting Started
 1) clone the repo and install the dependencies.
     ```
-    $> git clone https://github.com/
+    $> git clone https://github.com/blockframes/graphql-demo
     $> cd graphql-demo
     $> npm i
     ```
